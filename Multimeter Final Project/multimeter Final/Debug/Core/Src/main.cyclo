@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Core/Src/main.c:100:5:main	1
+../Core/Src/main.c:176:6:SystemClock_Config	4
+../Core/Src/main.c:225:6:PeriphCommonClock_Config	2
+../Core/Src/main.c:251:13:MX_ADC1_Init	4
+../Core/Src/main.c:318:13:MX_ADC2_Init	3
+../Core/Src/main.c:376:13:MX_I2C1_Init	4
+../Core/Src/main.c:424:13:MX_GPIO_Init	1
+../Core/Src/main.c:467:6:switchModes	1
+../Core/Src/main.c:473:6:configure_EXTI	1
+../Core/Src/main.c:490:6:EXTI2_IRQHandler	3
+../Core/Src/main.c:506:6:SetLCD	5
+../Core/Src/main.c:555:6:getVoltage	1
+../Core/Src/main.c:582:6:getCurrent	1
+../Core/Src/main.c:612:6:getContinuity	2
+../Core/Src/main.c:624:6:getData	4
+../Core/Src/main.c:644:6:Error_Handler	1
